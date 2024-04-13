@@ -13,11 +13,11 @@ This repository contains the Project 3 Flask application, designed for secure us
 
 ### Prerequisites
 
-You need Python and the following packages:
+You need Python and the following packages
 ```bash
 pip install flask flask_sqlalchemy argon2-cffi cryptography pytest flask-testing
 
-Setup::
+Setup:
 To get started with this project, clone the repository and navigate to the project directory:
 git clone https://github.com/sbg0073/Project3.git
 cd Project3
