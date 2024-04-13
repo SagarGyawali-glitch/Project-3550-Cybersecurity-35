@@ -2,7 +2,24 @@
 
 Enhancing security and user management in the JWKS Server
 
-Your README file is normally the first entry point to your code. It should tell people why they should use your module, how they can install it, and how they can use it. Standardizing how you write your README makes creating and maintaining your READMEs easier. Great documentation takes work!
+# Project 3 Flask Application
+
+Welcome to the GitHub repository for Project 3 of the Cybersecurity course. This Flask application is engineered to enhance security and manage user interactions within a JWKS server. It implements AES encryption for private keys, adds robust user registration capabilities, logs authentication requests, and optionally introduces a rate limiter to manage request frequency effectively.
+
+## Features
+
+- **User Registration**: Users can register by providing a username and email, and receive a securely hashed password in return.
+- **User Authentication**: Authentication is managed through unique user IDs, ensuring secure access to the system.
+- **AES Encrypted Storage**: Critical data, including private keys and passwords, are encrypted using AES encryption to ensure data integrity and security.
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have Python installed along with the following packages:
+
+```bash
+pip install flask flask_sqlalchemy argon2-cffi cryptography pytest flask-testing
 
 This repository contains:
 
