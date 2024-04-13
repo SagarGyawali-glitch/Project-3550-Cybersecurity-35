@@ -19,7 +19,7 @@ Welcome to the GitHub repository for Project 3 of the Cybersecurity course. This
 
 Ensure you have Python installed along with the following packages:
 
-pip install flask flask_sqlalchemy argon2-cffi cryptography pytest flask-testing
+pip install flask flask_sqlalchemy argon2-cffi cryptography pytest flask-testing ``
 
 # Installation
 Clone the repository and set up the necessary environment variables:
