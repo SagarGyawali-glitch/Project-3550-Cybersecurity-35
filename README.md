@@ -16,7 +16,6 @@ This repository contains the Project 3 Flask application, designed for secure us
 You will need Python installed on your machine, along with the following packages:
 
 ```bash
-
 pip install flask flask_sqlalchemy argon2-cffi cryptography pytest flask-testing
 
 Setup
