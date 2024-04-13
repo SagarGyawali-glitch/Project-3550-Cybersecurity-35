@@ -53,7 +53,9 @@ Cryptography: Implements encryption mechanisms within the application.
 Thanks to various Flask tutorials and documentation that provided insights and code snippets crucial for building this application.
 
 # Additional Notes
+
 Rate Limiting: The optional rate limiter is configured to allow up to 10 requests per second per user, with excess requests receiving a 429 Too Many Requests response.
+
 Logging: Authentication requests are logged with details such as the IP address, timestamp, and user ID.
 
 
