@@ -23,7 +23,7 @@ pip install flask flask_sqlalchemy argon2-cffi cryptography pytest flask-testing
 # Installation
 Clone the repository and set up the necessary environment variables:
 ```bash
-git clone [https://github.com/sbg0073/Project3.git](https://github.com/SagarGyawali-glitch/Project-3550-Cybersecurity-35)
+git clone https://github.com/sbg0073/Project3.git](https://github.com/SagarGyawali-glitch/Project-3550-Cybersecurity-35)](https://github.com/SagarGyawali-glitch/Project-3550-Cybersecurity-35
 cd Project3
 export NOT_MY_KEY=$(openssl rand -base64 32)  # Set the AES key
 ```
