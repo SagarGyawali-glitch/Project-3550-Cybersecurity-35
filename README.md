@@ -20,6 +20,9 @@ Ensure you have Python installed along with the following packages:
 
 pip install flask flask_sqlalchemy argon2-cffi cryptography pytest flask-testing
 
+#Installation
+Clone the repository and set up the necessary environment variables:
+
 This repository contains:
 
 1. [The specification](spec.md) for how a standard README should look.
