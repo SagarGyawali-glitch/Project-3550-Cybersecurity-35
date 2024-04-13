@@ -3,7 +3,7 @@
 Enhancing security and user management in the JWKS Server
 
 
-# Project 3 Flask Application
+```bash # Project 3 Flask Application
 
 Welcome to the GitHub repository for Project 3 of the Cybersecurity course. This Flask application is engineered to enhance security and manage user interactions within a JWKS server. It implements AES encryption for private keys, adds robust user registration capabilities, logs authentication requests, and optionally introduces a rate limiter to manage request frequency effectively.
 
@@ -20,7 +20,7 @@ Welcome to the GitHub repository for Project 3 of the Cybersecurity course. This
 Ensure you have Python installed along with the following packages:
 
 pip install flask flask_sqlalchemy argon2-cffi cryptography pytest flask-testing 
-
+```
 # Installation
 Clone the repository and set up the necessary environment variables:
 
